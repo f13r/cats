@@ -1,0 +1,16 @@
+{
+  "name": "cats",
+  "version": "0.0.0",
+  "homepage": "https://github.com/f13r/cats",
+  "authors": [
+    "Victor Slavinskiy <victor@clioonline.dk>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
